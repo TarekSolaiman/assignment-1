@@ -4,5 +4,38 @@ body {
 }
 
 .part-1 {
-    /* background-image: url(images/); */
+    width: 100%;
+    height: 600px;
+    background-image: url(images/pic-1.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.first-headr {
+    margin: 0;
+    padding-top: 200px;
+    font-size: 60px;
+    color: white;
+}
+
+.box-1 {
+    text-align: center;
+    width: 60%;
+    height: 580px;
+    margin: auto;
+
+}
+
+.first-pera {
+    color: white;
+    padding-bottom: 20px;
+}
+
+.button {
+    text-decoration: none;
+    font-size: 20px;
+    padding: 7px 20px;
+    border-radius: 5px;
+    color: white;
+    background-color: rgb(0 201 255);
 }
