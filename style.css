@@ -144,3 +144,33 @@ body {
     color: gray;
     text-align: justify;
 }
+
+.part-4 {
+    margin-top: 150px;
+    width: 100%;
+    display: flex;
+}
+
+.picture {
+    width: 300px;
+    height: 300px;
+    margin-left: 180px;
+
+}
+
+.medicine {
+    width: 300px;
+    height: 300px;
+
+}
+
+.pictitle {
+    width: 653px;
+    height: 202px;
+    margin-top: 50px;
+    text-align: center;
+    padding: 20px;
+    background-color: #ffcf0024;
+    border-radius: 150px 150px 150px 150px;
+
+}
