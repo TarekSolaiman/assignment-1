@@ -174,3 +174,44 @@ body {
     border-radius: 150px 150px 150px 150px;
 
 }
+
+.part-5 {
+    margin-top: 200px;
+    width: 100%;
+    text-align: center;
+}
+
+.formhead {
+    font-size: 35px;
+}
+
+.formpera {
+    color: gray;
+}
+
+.submit {
+    width: 70%;
+    padding: 100px 0px 100px;
+    margin: auto;
+    background-color: #009aff24;
+}
+
+.email {
+    border: 0;
+    border-radius: 5px 0 0 5px;
+    font-size: 20px;
+    padding: 11px;
+    margin: 0;
+    background-color: #80808057;
+}
+
+#button-2 {
+    width: 200px;
+    border: 0;
+    border-radius: 0 5px 5px 0;
+    font-size: 20px;
+    padding: 11px;
+    margin-left: -4px;
+    background-color: #0fc1ffa1;
+    color: white;
+}
