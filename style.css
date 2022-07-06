@@ -175,7 +175,11 @@ body {
 
 }
 
-.part-5 {
+.pic-pera {
+    color: gray;
+}
+
+.part-6 {
     margin-top: 200px;
     width: 100%;
     text-align: center;
@@ -216,7 +220,7 @@ body {
     color: white;
 }
 
-.part-6 {
+.part-7 {
     margin-top: 200px;
     text-align: center;
     padding: 20px;
@@ -228,4 +232,52 @@ body {
 .mylogo {
     width: 100px;
     height: 100px;
+}
+
+.part-5 {
+    margin: 0;
+}
+
+.main-div {
+    display: flex;
+    width: 65%;
+    margin: 150px auto;
+    padding: 15px;
+    justify-content: space-between;
+
+
+}
+
+.donet-ruls {
+
+    width: 400px;
+    height: 294px;
+    border-radius: 5px;
+    padding: 10px;
+    color: grey;
+    box-shadow: 2px 2px 15px grey;
+
+}
+
+.ruls-head {
+    color: black;
+}
+
+.ruls-pera {
+    padding-bottom: 45px;
+}
+
+.donet-ruls-2 {
+
+    width: 400px;
+    height: 315px;
+
+
+}
+
+.ruls-pic {
+    width: 400px;
+    height: 315px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 15px grey;
 }
