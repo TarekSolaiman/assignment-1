@@ -84,14 +84,17 @@ body {
     background-color: #00ffff1c;
 }
 
-.line {
-    width: 45%;
-    margin-bottom: 20px;
+
+.amount {
+    border: none;
+    padding: 10px;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 30px;
 }
 
-.line-tk {
-    color: gray;
-    margin-bottom: 0;
+.line {
+    width: 45%;
 }
 
 .part-3 {
